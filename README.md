@@ -187,4 +187,4 @@ data.shape
 ![image](https://github.com/user-attachments/assets/645a9c80-dba1-4910-8d1d-a1621f97ae16)
 
 # RESULT:
-
+Thus, Feature selection and Feature scaling has been used on thegiven dataset.
